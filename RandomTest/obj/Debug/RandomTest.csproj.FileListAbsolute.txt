@@ -1,0 +1,6 @@
+c:\users\александр\documents\visual studio 2017\Projects\RandomTest\RandomTest\bin\Debug\RandomTest.exe.config
+c:\users\александр\documents\visual studio 2017\Projects\RandomTest\RandomTest\bin\Debug\RandomTest.exe
+c:\users\александр\documents\visual studio 2017\Projects\RandomTest\RandomTest\bin\Debug\RandomTest.pdb
+c:\users\александр\documents\visual studio 2017\Projects\RandomTest\RandomTest\obj\Debug\RandomTest.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2017\Projects\RandomTest\RandomTest\obj\Debug\RandomTest.exe
+c:\users\александр\documents\visual studio 2017\Projects\RandomTest\RandomTest\obj\Debug\RandomTest.pdb
